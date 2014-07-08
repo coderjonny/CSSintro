@@ -1,6 +1,40 @@
 body {
+  margin: 0;
+  background-color: #eee;
 }
 
 img {
   width: 200px;
+}
+
+ul {
+}
+
+li {
+  list-style-image: url(images/myface.jpg);
+}
+
+
+.holiday {
+  text-align: center;
+}
+
+.rainbow .color {
+  height: 100px;
+}
+
+.rainbow {
+}
+
+.blue {
+  background-image: url(http://www.edenhousefabrics.co.uk/ekmps/shops/wdtrading2/images/royal-blue-with-20mm-white-stars-100-cotton-fabric-59-p.jpg);
+  background-size: 50%;
+}
+
+.red {
+  background-color: red;
+}
+
+.white {
+  background-color: white;
 }
