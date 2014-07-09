@@ -5,8 +5,31 @@ img {
   width: 200px;
 }
 
+ul {
+ 	list-style: none;
+	background-color: #ccc; 
+}
+
 h2 {
 	text-align: center;
 	font-size: 30px;
 	color: rgba(122, 205, 22, 0.4);
+	font-family: helvetica, new york times, 'ASDF';
+	font-weight: 300;
+	font-style: italic;
+	text-transform: uppercase;
+}
+
+.red {
+	background-color: red;
+}
+
+.blue {
+	background-color: blue;
+	background-image: url('http://pixbim.com/wp-content/uploads/2014/06/white-stars-background.png');
+	background-repeat: no-repeat;
+}
+
+.stripe {
+	height: 100px;
 }
